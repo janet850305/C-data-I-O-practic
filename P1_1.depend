@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1516933596 source:d:\c++\finalproject\p1_1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+
+1522765730 source:d:\c++\finalproject\pb1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+
